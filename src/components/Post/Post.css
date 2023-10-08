@@ -1,0 +1,19 @@
+.post {
+    border: 2px solid goldenrod;
+    margin: 10px;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.btn-show {
+    background-color: orange;
+    color: white;
+    padding: 15px;
+}
+
+.link-details {
+    background-color:red;
+    color: white;
+    padding: 15px;
+    border-radius: 10px;
+}
